@@ -15,6 +15,7 @@ Data Collection: Automate the collection of data for academic research, news agg
 Information Retrieval: Quickly retrieve specific content from multiple sources for reporting or summarization tasks.
 
 Technologies Used:
+
 Selenium: For automating browser interactions and handling dynamic content.
 
 Beautiful Soup: For parsing HTML and extracting relevant data.
