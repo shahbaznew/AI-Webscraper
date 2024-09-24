@@ -14,14 +14,6 @@ Content Cleaning: Implements robust methods to clean and format extracted data, 
 
 Modular Design: Features a modular architecture that allows easy integration of additional functionalities, such as data storage or further analysis.
 
-Use Cases:
-
-Market Research: Gather insights from competitor websites by extracting product information, prices, and reviews.
-
-Data Collection: Automate the collection of data for academic research, news aggregation, or sentiment analysis.
-
-Information Retrieval: Quickly retrieve specific content from multiple sources for reporting or summarization tasks.
-
 Technologies Used:
 
 Selenium: For automating browser interactions and handling dynamic content.
@@ -31,3 +23,12 @@ Beautiful Soup: For parsing HTML and extracting relevant data.
 Streamlit: For creating an interactive web application interface.
 
 Langchain (Llama 3.1): For enhanced natural language processing capabilities to parse and analyze the scraped content.
+
+Use Cases:
+
+Market Research: Gather insights from competitor websites by extracting product information, prices, and reviews.
+
+Data Collection: Automate the collection of data for academic research, news aggregation, or sentiment analysis.
+
+Information Retrieval: Quickly retrieve specific content from multiple sources for reporting or summarization tasks.
+
