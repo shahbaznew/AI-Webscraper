@@ -16,6 +16,9 @@ Information Retrieval: Quickly retrieve specific content from multiple sources f
 
 Technologies Used:
 Selenium: For automating browser interactions and handling dynamic content.
+
 Beautiful Soup: For parsing HTML and extracting relevant data.
+
 Streamlit: For creating an interactive web application interface.
+
 Langchain (Llama 3.1): For enhanced natural language processing capabilities to parse and analyze the scraped content.
